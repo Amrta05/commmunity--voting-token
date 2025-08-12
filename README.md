@@ -19,4 +19,5 @@ To create a transparent, fair, and secure voting system where every community me
 
 ## 5. Contract Address
 ST2GF4MRDBD7S2E4YN3VSXN0K8QS4ZFP77Y3ZF480.Community-Voting-Token
+<img width="3199" height="1611" alt="Screenshot 2025-08-12 145142" src="https://github.com/user-attachments/assets/41cb6f6f-b6ad-4822-976e-55c347db2a08" />
 
