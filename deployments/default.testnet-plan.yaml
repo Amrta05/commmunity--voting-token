@@ -1,0 +1,18 @@
+---
+id: 0
+name: Testnet deployment
+network: testnet
+stacks-node: "https://api.testnet.hiro.so"
+bitcoin-node: "http://blockstack:blockstacksystem@bitcoind.testnet.stacks.co:18332"
+plan:
+  batches:
+    - id: 0
+      transactions:
+        - contract-publish:
+            contract-name: Community-Voting-Token
+            expected-sender: ST2GF4MRDBD7S2E4YN3VSXN0K8QS4ZFP77Y3ZF480
+            cost: 14440
+            path: "contracts\\Community-Voting-Token.clar"
+            anchor-block-only: true
+            clarity-version: 3
+      epoch: "3.2"
