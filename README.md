@@ -18,4 +18,5 @@ To create a transparent, fair, and secure voting system where every community me
 - Integrate with **DAO frameworks** for complete governance.
 
 ## 5. Contract Address
-`SPXXXXXXXXXXXXXXX.CommunityVotingToken`
+ST2GF4MRDBD7S2E4YN3VSXN0K8QS4ZFP77Y3ZF480.Community-Voting-Token
+
